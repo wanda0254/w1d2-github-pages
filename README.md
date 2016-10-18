@@ -27,7 +27,10 @@ After you finish editing, save the file.
 ### Step 4: Push the Repo to the Server
 After saving the file, use `git add .` to add all the files and updates, use `git commit -m "message"` to commit, and `git push origin master` to uplaod the changes to server. That's it!
 
-### Step 5: Go to Your Site
+### Step 5: Settings
+Next we will create a github pages for this repo. Go to settings, and then in Github Pages section, choose master branch for source. You can change to another if there's any, but for now we will choose master branch.
+
+### Step 6: Go to Your Site
 Now you can see the changes on your site at **_UserName_.github.io/w1d2-github-pages**. If you want to make changes again, you can go to your *index.html* file, make your changes, save, add, commit, push, and refresh your pages. There you have it your changes. It's as easy as that!
 
 ## Contributions
